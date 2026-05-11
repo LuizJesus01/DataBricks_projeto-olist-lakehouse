@@ -1,6 +1,6 @@
 # 🛒 Olist Data Lakehouse: AWS & Databricks 🚀
 
-[![Databricks](https://img.shields.io/badge/Platform-Databricks-orange?style=flat-square&logo=databricks)](https://www.databricks.com/)
+[![Databricks](merge.png)](https://www.databricks.com/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 [![Delta Lake](https://img.shields.io/badge/Format-Delta_Lake-00ADD8?style=flat-square&logo=delta-lake)](https://delta.io/)
 
